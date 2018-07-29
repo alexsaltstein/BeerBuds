@@ -14,7 +14,6 @@
 		FA5C623B210E5FBC00FB2549 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA5C6239210E5FBC00FB2549 /* LaunchScreen.storyboard */; };
 		FA5C6246210E5FBC00FB2549 /* BeerBudsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5C6245210E5FBC00FB2549 /* BeerBudsTests.swift */; };
 		FA5C6251210E5FBC00FB2549 /* BeerBudsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5C6250210E5FBC00FB2549 /* BeerBudsUITests.swift */; };
-		FA5C625F210E615B00FB2549 /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5C625E210E615B00FB2549 /* test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +47,6 @@
 		FA5C624C210E5FBC00FB2549 /* BeerBudsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BeerBudsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA5C6250210E5FBC00FB2549 /* BeerBudsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeerBudsUITests.swift; sourceTree = "<group>"; };
 		FA5C6252210E5FBC00FB2549 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FA5C625E210E615B00FB2549 /* test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +102,6 @@
 				FA5C6234210E5FBC00FB2549 /* Main.storyboard */,
 				FA5C6237210E5FBC00FB2549 /* Assets.xcassets */,
 				FA5C6239210E5FBC00FB2549 /* LaunchScreen.storyboard */,
-				FA5C625E210E615B00FB2549 /* test.swift */,
 				FA5C623C210E5FBC00FB2549 /* Info.plist */,
 			);
 			path = BeerBuds;
@@ -263,7 +260,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA5C6233210E5FBC00FB2549 /* ViewController.swift in Sources */,
-				FA5C625F210E615B00FB2549 /* test.swift in Sources */,
 				FA5C6231210E5FBC00FB2549 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
